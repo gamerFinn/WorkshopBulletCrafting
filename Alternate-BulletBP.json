@@ -1,0 +1,18 @@
+{
+    "Name": "AlternateBlueprints_RifleBullet",
+    "RequiredGear": ["GEAR_Bullet","GEAR_RifleAmmoCasing"],
+    "RequiredGearUnits": [1,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0.01,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RifleAmmoSingle",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 15,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "Gunsmithing",
+    "ImprovedSkill" : "Gunsmithing"
+}
